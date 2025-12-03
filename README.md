@@ -1,3 +1,8 @@
+**核心技术栈**
+ - HTML5 + CSS3 + Vanilla JavaScript​ - 轻量级原生开发
+ - Flexbox + Media Queries​ - 响应式布局，适配桌面、平板、手机不同尺寸的显示
+
+
 **响应式HTML界面**
 
 - *登录*
